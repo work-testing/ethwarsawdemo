@@ -1,4 +1,4 @@
-## ethwarsaw demo 
+## ETHWarsaw Demo 
 :mermaid: **ETH Warsaw  - Web 3 Project Roadmap** 	:mermaid:
 
 Warsaw blockchain community has been very active on the global Web3 scene.
