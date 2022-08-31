@@ -6,7 +6,7 @@ We’d like to welcome Web3 builders from all over the world to join us for a we
 
 
 
-Learn from GitHub Product Manager about some best practices around your product management, how to ship small and incremental features, and build a public product roadmap on GitHub.
+⏭️	:next_track_button: Learn from GitHub Product Manager about some best practices around your product management, how to ship small and incremental features, and build a public product roadmap on GitHub.
 
 :smiling_face_with_three_hearts: 
 KasiaSun 
