@@ -12,6 +12,10 @@ Learn from GitHub Product Manager about some best practices around your product 
 KasiaSun 
 
 
+<img width="1353" alt="Screen Shot 2022-08-31 at 1 47 53 PM" src="https://user-images.githubusercontent.com/47511016/187675155-68e561a5-be89-4732-8a7a-065deba66ebe.png">
+
+
+
 
 ## GitHub public roadmap
 ❇️ View the official GitHub public product roadmap1
